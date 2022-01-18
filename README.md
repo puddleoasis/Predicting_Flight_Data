@@ -2,7 +2,7 @@
 Welcome to a working introduction to forecasting time-series data with the LSTM architecture.
 
 ## Summary & Objective
-In this project, I explore the Flights dataset from seaborn.
+In this project, I explore the Flights dataset from `seaborn`.
 I use `PyTorch`, `sklearn`, `pandas`, `seaborn`, `NumPy`, and `Matplotlib` to explore and explain trends in data while practicing building with the LSTM architecture. 
 
 ## Initial Observation
